@@ -10,3 +10,16 @@ This repository contains summaries, walkthroughs, and reflections from hands-on 
 - 🔐 [TryHackMe](https://tryhackme.com)
 - 🛡️ [LetsDefend](https://letsdefend.io)
 - 🐚 [OverTheWire](https://overthewire.org/wargames/)
+
+---
+
+## 🧠 Example Lab Entry
+
+### 🔍 TryHackMe: [Room Name]
+- **Date**: [Month Day, Year]
+- **Room URL**: [link](https://tryhackme.com/room/example)
+- **Focus Areas**: e.g., Nmap scanning, service enumeration, file permissions
+- **Commands Used**:
+  ```bash
+  nmap -sV -A 10.10.10.10
+  dirb http://10.10.10.10
